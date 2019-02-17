@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenTKmarch", "OpenTKmarch\OpenTKmarch.csproj", "{A11A1736-90A2-455A-AE6B-11F69BF55F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11A1736-90A2-455A-AE6B-11F69BF55F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11A1736-90A2-455A-AE6B-11F69BF55F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11A1736-90A2-455A-AE6B-11F69BF55F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11A1736-90A2-455A-AE6B-11F69BF55F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29477C77-5776-4D58-9FBF-356B3E861DE4}
+	EndGlobalSection
+EndGlobal
